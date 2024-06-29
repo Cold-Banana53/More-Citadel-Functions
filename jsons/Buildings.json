@@ -6,7 +6,7 @@
 		"uniques": [
             "[+3 Food] [in this city] <when above [-1] [Food Stocks (Cargo)]>",
         ],
-		"requiredTech": "(Mod) Helpful Citadel"
+		"requiredTech": "(Mod) Useful Citadel"
 	},
     {
 		"name": "Use Building Materials (Building Material Cargo Route)",
@@ -15,6 +15,6 @@
 		"uniques": [
             "[+5]% Production when constructing [All] buildings [in this city] <when above [-1] [Building Materials (Cargo)]>"
         ],
-		"requiredTech": "(Mod) Helpful Citadel"
+		"requiredTech": "(Mod) Useful Citadel"
 	},
 ]

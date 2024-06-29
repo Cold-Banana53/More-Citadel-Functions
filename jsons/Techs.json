@@ -7,7 +7,7 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "(Mod) Helpful Citadel",
+				"name": "(Mod) Useful Citadel",
 				"row": 18,
                 "uniques": ["Starting tech"]
 			}
