@@ -1,0 +1,20 @@
+[
+    {
+		"name": "Use Food Supply (Food Cargo Route)",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": [
+            "[+3 Food] [in this city] <when above [-1] [Food Stocks (Cargo)]>",
+        ],
+		"requiredTech": "(Mod) Helpful Citadel"
+	},
+    {
+		"name": "Use Building Materials (Building Material Cargo Route)",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": [
+            "[+5]% Production when constructing [All] buildings [in this city] <when above [-1] [Building Materials (Cargo)]>"
+        ],
+		"requiredTech": "(Mod) Helpful Citadel"
+	},
+]

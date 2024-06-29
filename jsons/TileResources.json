@@ -1,0 +1,10 @@
+[
+    {
+		"name": "Food Stocks (Cargo)",
+		"resourceType": "Strategic",
+	},
+    {
+		"name": "Building Materials (Cargo)",
+		"resourceType": "Strategic",
+	},
+]
