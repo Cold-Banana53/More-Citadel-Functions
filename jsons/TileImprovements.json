@@ -19,6 +19,7 @@
             "Will not be replaced by automated units",
 
             "Provides [1] [Food Stocks (Cargo)] <with [4] to [6] neighboring [Farm] tiles>",
+			"Provides [1] [Food Stocks (Cargo)] <with [4] to [6] neighboring [Plantation] tiles>",
             "Provides [1] [Building Materials (Cargo)] <with [4] to [6] neighboring [Mine] tiles>",
             "Provides [1] [Building Materials (Cargo)] <with [4] to [6] neighboring [Lumber mill] tiles>",
             
