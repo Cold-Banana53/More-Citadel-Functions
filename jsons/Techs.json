@@ -7,7 +7,7 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "(Mod) Useful Citadel",
+				"name": "(Mod) More Citadel Functions During Peace Times",
 				"row": 18,
                 "uniques": ["Starting tech"]
 			}
