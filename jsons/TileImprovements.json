@@ -8,21 +8,17 @@
 			"Great Improvement",
 			"Gives a defensive bonus of [50]%",
 			"Gives a defensive bonus of [50]% <when at war>",
-
-            // I feel like turning this into -30% strength for adjacent enemy
 			"Adjacent enemy units ending their turn take [30] damage", 
-
             "[-1 Culture, -1 Gold] <for [50] turns>",
 			"Can be built just outside your borders",
 			"Constructing it will take over the tiles around it and assign them to your closest city",
 			"Removes removable features when built",
             "Will not be replaced by automated units",
-
             "Provides [1] [Food Stocks (Cargo)] <with [4] to [6] neighboring [Farm] tiles>",
 			"Provides [1] [Food Stocks (Cargo)] <with [4] to [6] neighboring [Plantation] tiles>",
             "Provides [1] [Building Materials (Cargo)] <with [4] to [6] neighboring [Mine] tiles>",
-            "Provides [1] [Building Materials (Cargo)] <with [4] to [6] neighboring [Lumber mill] tiles>",
+            "Provides [1] [Building Materials (Cargo)] <with [4] to [6] neighboring [Lumber mill] tiles>"
             
 		]
-	},
+	}
 ]
